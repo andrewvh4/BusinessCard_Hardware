@@ -9,5 +9,5 @@
   (lib (name MRDT_Shields)(type KiCad)(uri ${MRDT_KICAD_LIBRARIES}/Package/MRDT_Shields.pretty)(options "")(descr ""))
   (lib (name MRDT_Silkscreens)(type KiCad)(uri ${MRDT_KICAD_LIBRARIES}/Package/MRDT_Silkscreens.pretty)(options "")(descr ""))
   (lib (name MRDT_Switches)(type KiCad)(uri ${MRDT_KICAD_LIBRARIES}/Package/MRDT_Switches.pretty)(options "")(descr ""))
-  (lib (name ProjectLibrary)(type KiCad)(uri ${KIPRJMOD}/ProjectLibrary.pretty)(options "")(descr ""))
+  (lib (name ProjectLibrary)(type KiCad)(uri C:/Users/andre/OneDrive/Documents/Projects/BusinessCard_Hardware/Libraries/ProjectLibrary.pretty)(options "")(descr ""))
 )
